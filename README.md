@@ -71,6 +71,10 @@ bpmn-js 相关文档，参见：
 This project is licensed under the Apache License 2.0 .
 
 
+## 赞助
+
+[<img src="https://api.gitsponsors.com/api/badge/img?id=481887403" height="60">](https://api.gitsponsors.com/api/badge/link?p=XvJdoL3FXUezajXcEAjnqdOGx/xMQlKdSJ2XukJZhjj+v2G/smtGTdxx5d/5Zp0bQmeitYUu2e3mpGycJnvWhHIiRTc2AaKkYXpk4ipZV1EoccMgzWtBnQpPOU7DU3urcJzL52WT9mG+aAUoKo19ow==)
+
 ## 书籍推荐
 
 《深入Activiti流程引擎：核心原理与高阶实战（异步图书出品）》
@@ -79,4 +83,3 @@ This project is licensed under the Apache License 2.0 .
 
 购买地址：[京东](https://item.jd.com/13928958.html)、[异步社区电子书](https://www.epubit.com/bookDetails?id=UBd189db7e65bd)
 
-![《深入 Activiti 流程引擎》](https://img30.360buyimg.com/vc/jfs/t1/6552/17/12728/2380863/643365b9F1da80c9d/ed1284cc206012b0.jpg)
