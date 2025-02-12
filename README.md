@@ -28,17 +28,30 @@
 
 ---
 
-✨✨✨**目前成都的"小学生"大佬和作者一起开发了 Flowable 流程引擎组件（包含前端设计器与后端流程引擎）。**
+<div style="backgroud: red">
+
+✨✨✨ **目前成都的"小学生"大佬和作者一起开发了 Flowable 流程引擎组件（包含前端设计器与后端流程引擎）。**
 
 **该组件与Flowable 流程引擎深度融合，结合实际业务场景和使用方式，对属性编辑面板进行了重新设计，优化了用户体验。 增加了符合业务场景的流程校验与进度预览、引入了富文本编辑器与代码编辑器。 结合后端引擎，可直接嵌入系统中使用。**
 
-详情请访问：https://www.bpmport.com/products ；
+详情请访问：https://www.bpmport.com/products
 
-设计器预览：[designer](https://designer.bpmport.com/designer/)，[viewer](https://designer.bpmport.com/viewer/)
+设计器预览：[FlowableDesigner](https://designer.bpmport.com/designer/)，[FlowableViewer](https://designer.bpmport.com/viewer/)
 
-交流群：
 
-![qq](./public/qq-group.png)
+联系方式：
+
+Mail: 463805737@qq.com
+
+QQ Group: 582010059
+
+<p align="center">
+
+<img src="./public/qq-group.png" alt="QQ Group" />
+<img src="https://www.bpmport.com/images/contact-us-weixin-img.b5e3c289.png" alt="wechat" />
+
+</p>
+</div>
 
 ---
 
